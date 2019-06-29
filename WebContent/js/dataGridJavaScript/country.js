@@ -37,7 +37,7 @@ function showCountryDataGrid()
         showBorders: true,
         editing: {
             refreshMode: "reshape",
-            mode: "cell",
+            mode: "form",
             allowAdding: true,
             allowUpdating: true,
             allowDeleting: true
